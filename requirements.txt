@@ -1,0 +1,6 @@
+
+matplotlib<=3.10.5
+pandas<=2.3.1
+statsforecast<=2.0.2
+streamlit<=1.48.1
+supabase<=2.18.1
